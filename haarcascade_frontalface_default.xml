@@ -1,2 +1,0 @@
-cascade_path = "models/haarcascade_frontalface_default.xml"
-face_cascade = cv2.CascadeClassifier(cascade_path)
